@@ -15,7 +15,6 @@ for (var i=0; i<Infinity; i++) {
 
     }
     else {
-        i--;
         alert('only use: rock, paper, scissor.');
         continue;
     }
